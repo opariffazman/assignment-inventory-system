@@ -6,3 +6,13 @@ functions of data manipulation such as adding, deleting, viewing etc.
 
 Bonus marks are given for more advanced functions implementation such as 
 sorting or data to file exporting (txt/doc).
+
+This project consist of the following functions:
+* Add
+* Search
+* View
+* Delete
+* Export data to text file
+
+
+
