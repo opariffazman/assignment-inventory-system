@@ -14,5 +14,9 @@ This project consist of the following functions:
 * Delete
 * Export data to text file
 
+## Screenshot
+
+ <img src="http://i.imgur.com/WClS3os.png"/>
+
 
 
